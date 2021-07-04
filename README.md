@@ -34,12 +34,14 @@ The second line contains  space-separated integers  where  denotes the number of
 
 Constraints
 
-Sample Input
+Function
+--------
+n = 5, k = 3
+arr = [4, 2, 6, 1, 10]
 
-STDIN       Function
------       --------
-5 3         n = 5, k = 3
-4 2 6 1 10  arr = [4, 2, 6, 1, 10]
+Sample Input (STDIN)
+5 3 
+4 2 6 1 10 
 
 Sample Output
 4
