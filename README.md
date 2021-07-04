@@ -40,13 +40,14 @@ STDIN       Function
 -----       --------
 5 3         n = 5, k = 3
 4 2 6 1 10  arr = [4, 2, 6, 1, 10]
-Sample Output
 
+Sample Output
 4
+
 Explanation
 
 The diagram below depicts Lisa's workbook with  chapters and a maximum of  problems per page. Special problems are outlined in red, and page numbers are in yellow squares:
 
-[a relative link](workbook.png)
+[diagram](workbook.png)
 
-There are  special problems and thus we print the number  on a new line.
+There are 4 special problems and thus we print the number  on a new line.
