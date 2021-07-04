@@ -37,15 +37,21 @@ Constraints
 Function
 --------
 n = 5, k = 3
+
 arr = [4, 2, 6, 1, 10]
 
+--------
 Sample Input (STDIN)
-5 3 
+
+5 3
+
 4 2 6 1 10 
 
 Sample Output
+
 4
 
+--------
 Explanation
 
 The diagram below depicts Lisa's workbook with  chapters and a maximum of  problems per page. Special problems are outlined in red, and page numbers are in yellow squares:
